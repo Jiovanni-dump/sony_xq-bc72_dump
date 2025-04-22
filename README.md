@@ -1,0 +1,14 @@
+# XQ-BC72-user 13 61.2.A.0.472A 061002A0000472A0046651803 release-keys
+- manufacturer: sony
+- platform: lahaina
+- codename: XQ-BC72
+- flavor: lineage_pdx215-userdebug
+- release: 15
+- id: BP1A.250405.007
+- incremental: 42d9f9831e
+- tags: release-keys
+- fingerprint: Sony/XQ-BC72/XQ-BC72:13/61.2.A.0.472A/061002A0000472A0046651803:user/release-keys
+- is_ab: true
+- brand: Sony
+- branch: XQ-BC72-user-13-61.2.A.0.472A-061002A0000472A0046651803-release-keys
+- repo: sony_xq-bc72_dump

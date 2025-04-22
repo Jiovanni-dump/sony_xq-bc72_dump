@@ -1,0 +1,16 @@
+persist.wm.extensions.enabled=true
+ro.com.android.mobiledata=false
+ro.config.alarm_alert=Hassium.ogg
+ro.config.media_vol_steps=30
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.config.vc_call_vol_steps=8
+ro.dalvik.vm.enable_uffd_gc=true
+ro.product.ab_ota_partitions=boot,dtbo,odm,product,system,system_ext,vbmeta,vbmeta_system,vendor,vendor_boot,vendor_dlkm
+ro.product.build.16k_page.enabled=false
+ro.product.build.version.sdk_minor=0
+ro.product.cpu.pagesize.max=4096
+ro.product.page_size=4096
+ro.support_one_handed_mode=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.theme=glif_v4
