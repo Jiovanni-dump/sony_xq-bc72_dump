@@ -1,0 +1,48 @@
+####################################
+# from generate_common_build_props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Sony
+ro.product.product.device=XQ-BC72
+ro.product.product.manufacturer=Sony
+ro.product.product.model=Xperia 1 III
+ro.product.product.name=XQ-BC72
+ro.product.build.date=Tue Apr 22 07:19:20 UTC 2025
+ro.product.build.date.utc=1745306360
+ro.product.build.fingerprint=Sony/XQ-BC72/XQ-BC72:13/61.2.A.0.472A/061002A0000472A0046651803:user/release-keys
+ro.product.build.id=BP1A.250405.007
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=42d9f9831e
+ro.product.build.version.release=15
+ro.product.build.version.release_or_codename=15
+ro.product.build.version.sdk=35
+ro.product.build.version.sdk_minor=0
+####################################
+# from device/sony/sm8350-common/product.prop
+####################################
+# Audio
+ro.config.media_vol_steps=30
+ro.config.vc_call_vol_steps=8
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.build.16k_page.enabled=false
+ro.product.page_size=4096
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,dtbo,odm,product,system,system_ext,vbmeta,vbmeta_system,vendor,vendor_boot,vendor_dlkm
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=true
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.wm.extensions.enabled=true
+setupwizard.theme=glif_v4
+setupwizard.feature.day_night_mode_enabled=true
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+ro.com.android.mobiledata=false
+# end of file
+
